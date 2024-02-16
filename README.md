@@ -1,13 +1,13 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/clerodri)
 <h1 align="center">Hi 👋, I'm Ronaldo Rodriguez</h1>
-<h3 align="center">A passionate android developer from Ecuador</h3>
+<h3 align="center">A passionate developer from Ecuador</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
 
 - 🔭 I’m currently working on [Mobile Apps](https://github.com/clerodri/HoroscopeApp)
 
-- 🌱 I’m currently learning **C++, Python, PLSQL, Java Core, CI/CD, Testing** 
+- 🌱 I’m currently learning **Javascript/HTML/CSS, Python** 
 
-- 💬 Ask me about **Android, Java, C and SQL**
+- 💬 Ask me about **Android/Kotlin, Java Core/Spring, C/Pro*C, SQL/PLSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
