@@ -1,0 +1,139 @@
+body{
+  font-family: "Inter";
+  padding: 0%;
+}
+
+.top-header {
+  background-color: darkblue; /* Sets the background color to blue */
+  color: white; /* Sets the text color to white */
+  text-align: center; /* Centers the text horizontally */
+  padding: 30px ; /* Adds some padding above and below the text */
+}
+.fixed-top {
+  top: 70px; /* Height of your top header */
+}
+
+.login-button{
+  background-color: #009978;
+  color: #ffff;
+  font-size: 14px;
+  padding: 8px 20px;
+  border-radius: 50px;
+  text-decoration: none;
+  transition: 0.3s background-color;
+}
+
+.login-button:hover{
+  background-color: #00b383;
+}
+
+.nav-link{
+  color: #666777;
+  font-weight: 500;
+  position: relative;
+}
+.nav-link:hover, .nav-link:active{
+  color: #000;
+}
+
+@media (min-width: 991px) {
+  
+  .nav-link::before{
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 2px;
+    background-color: #009970;
+    visibility: hidden;
+    transition: 0.3s ease-in-out;
+  
+  }
+  
+  
+  .nav-link:hover::before, .nav-link.active::before{
+    width: 100%;
+    visibility: visible;
+  }
+  
+}
+
+.navbar-toggler{
+  border: none;
+  font-size: 1.25rem;
+}
+
+.navbar-toggler:focus, .btn-close:focus{
+  box-shadow: none;
+  outline: none;
+}
+
+.navbar-brand{
+    font-weight: 500;
+    color: #009970;
+    font-size: 24px;
+    transition: 0.3s color;
+}
+.custom-bg {
+  background-color: #009970; /* Usa el color que prefieras */
+}
+.navbar{
+  
+  background-color: darkblue;
+  height: 60px;
+}
+
+header{
+  padding-bottom:0%;
+  margin-top: 0px;
+}
+
+.logo-img {
+  height: 60px; /* Ajusta esto basado en el tamaño de tu navbar */
+  /* Otras propiedades de estilo según sea necesario */
+}
+main{
+  
+}
+
+.home-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding-bottom: 0%;
+  background-color: #ffff; /* Ajusta el color de fondo según necesites */
+}
+
+
+.content-wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: center;
+  gap: 20px; /* Espacio entre la imagen y el texto */
+}
+
+.profile-image {
+  height: 40px;
+  max-width: 100%; /* Asegura que la imagen no sobrepase el ancho de su contenedor */
+  height: 60vh; /* Mantiene la proporción de la imagen al cambiar el ancho */
+}
+.text-content h1, .text-content p {
+  margin: 3;
+  text-align: left;
+}
+
+.text-content h1 {
+  font-size: 2.5em; /* Ajusta el tamaño del texto según necesites */
+  color: #000; /* Color del texto */
+}
+
+.text-content p {
+  font-size: 1.0em; /* Ajusta el tamaño del texto según necesites */
+  color: #333; /* Color del texto */
+}
+
+
