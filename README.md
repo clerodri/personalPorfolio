@@ -2,7 +2,7 @@
 <h1 align="center">👋 Sistema de Notificaciones de Pago</h1>
 <h3 align="center">proyecto en desarrollo..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
-<ul align="center">
+<ul >
   <li align="center">Login/Register</li>
   <li align="center">Autenticacion de Usuario</li>
   <li align="center">Notificaciones de pagos</li>
