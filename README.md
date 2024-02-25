@@ -2,7 +2,12 @@
 <h1 align="center">👋 Sistema de Notificaciones de Pago</h1>
 <h3 align="center">proyecto en desarrollo..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
-
+<ul align="center">
+  <li>Login/Register</li>
+  <li>Autenticacion de Usuario</li>
+  <li>Notificaciones de pagos</li>
+  <li>Dasboard de pagos</li>
+</ul>
 - 🔭 I’m currently working on [Mobile Apps](https://github.com/clerodri/HoroscopeApp)
 
 - 🌱 I’m currently learning **Javascript/HTML/CSS, Python** 
