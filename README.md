@@ -3,10 +3,10 @@
 <h3 align="center">proyecto en desarrollo..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
 <ul >
-  <li align="center">Login/Register</li>
-  <li align="center">Autenticacion de Usuario</li>
-  <li align="center">Notificaciones de pagos</li>
-  <li align="center">Dasboard de pagos</li>
+  <li >Login/Register</li>
+  <li >Autenticacion de Usuario</li>
+  <li >Notificaciones de pagos</li>
+  <li >Dasboard de pagos</li>
 </ul>
 - 🔭 I’m currently working on [Mobile Apps](https://github.com/clerodri/HoroscopeApp)
 
