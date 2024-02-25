@@ -1,12 +1,12 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/clerodri)
-<h1 align="center">👋 Sistema de Notificaciones de Pago</h1>
+<h1 align="center">👋 Sistema de Notificaciones de Pagos</h1>
 <h3 align="center">proyecto en desarrollo..</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clerodri&label=Profile%20views&color=0e75b6&style=flat" alt="clerodri" /> </p>
 <ul >
   <li >Login/Register</li>
   <li >Autenticacion de Usuario</li>
   <li >Notificaciones de pagos</li>
-  <li >Dasboard de pagos</li>
+  <li >Dashboard de pagos</li>
 </ul>
 - 🔭 I’m currently working on [Mobile Apps](https://github.com/clerodri/HoroscopeApp)
 
